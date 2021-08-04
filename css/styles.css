@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+}
+.flashy {
+  color: red;
+  font-style: italic;
+
+}
+.best {
+  font-weight: bold;
+  font-style: italic;
+}
